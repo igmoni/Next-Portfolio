@@ -69,7 +69,7 @@ const Home = () => {
             transition={{ duration: 0.5, delay: 1.2 }}
             className="flex flex-wrap justify-center md:justify-start gap-4 text-4xl sm:text-[56px] font-semibold"
           >
-            <p>Hi! I'm</p>
+            <p>Hi! I&apos;m</p>
             <div className="bg-white rounded-full px-6 py-2 text-[38px]">Mohan S P</div>
           </motion.div>
           <motion.div 
@@ -114,5 +114,6 @@ const Home = () => {
     </div>
   );
 };
+
 
 export default Home;
