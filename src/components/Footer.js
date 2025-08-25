@@ -93,7 +93,7 @@ const Footer = () => {
            target="_blank"
            rel="noopener noreferrer"
            className="text-white bg-[#ED8F55] flex items-center justify-center gap-2 px-5 py-3 mt-3 rounded-md hover:bg-[#D97846] transition">
-            Let's Collaborate
+            Let&apos;s Collaborate
             <Image
               src={"/white-return.png"}
               width={30}
@@ -108,3 +108,4 @@ const Footer = () => {
 };
 
 export default Footer;
+
